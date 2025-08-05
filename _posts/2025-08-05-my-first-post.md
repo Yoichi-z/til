@@ -1,7 +1,7 @@
 ---
 title: "はじめてのTIL投稿"
 date: 2025-08-05 21:00:00 +0900
-categories: [Python, 入門]
+categories: [Python]
 tags: [リスト内包表記, 初学者]
 ---
 
